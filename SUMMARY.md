@@ -5,6 +5,7 @@
 ## Lands PLugin
 
 * [Lands](lands-plugin/lands.md)
+* [Creating a Land](lands-plugin/creating.md)
 * [Claiming](lands-plugin/claiming.md)
 
 ## Economy
