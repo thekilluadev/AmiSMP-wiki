@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome to the Ami SMP streamer wiki.](README.md)
 
