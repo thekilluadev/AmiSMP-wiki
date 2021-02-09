@@ -1,0 +1,2 @@
+# The Ami SMP Bot
+

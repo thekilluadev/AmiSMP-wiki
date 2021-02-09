@@ -10,3 +10,7 @@
 
 * [Buying & Selling](economy/buying-and-selling.md)
 
+## Bot
+
+* [The Ami SMP Bot](bot/the-ami-smp-bot.md)
+
