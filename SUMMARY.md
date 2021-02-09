@@ -6,3 +6,7 @@
 
 * [Lands](lands-plugin/lands.md)
 
+## Economy
+
+* [Buying & Selling](economy/buying-and-selling.md)
+
