@@ -6,7 +6,9 @@
 
 * [Lands](lands-plugin/lands.md)
 * [Creating a Land](lands-plugin/creating.md)
-* [Claiming](lands-plugin/claiming.md)
+* [Claiming Land](lands-plugin/claiming.md)
+* [Inviting Someone](lands-plugin/inviting.md)
+* [Land Roles](lands-plugin/roles.md)
 
 ## Economy
 
