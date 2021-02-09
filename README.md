@@ -11,9 +11,9 @@ This wiki is a work-in-progress.
 Here, you can see any commands and features of the server that would be useful.
 
 # Socials
-Website: https://amismp.net/ /n
-Twitter: https://twitter.com/smp_ami /n
-YouTube: https://bit.ly/38JSsed /n
-Twitch: https://twitch.tv/AmiSMP /n
+Website: https://amismp.net/  
+Twitter: https://twitter.com/smp_ami  
+YouTube: https://bit.ly/38JSsed  
+Twitch: https://twitch.tv/AmiSMP  
 
 
